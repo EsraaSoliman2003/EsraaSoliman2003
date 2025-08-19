@@ -10,7 +10,7 @@ I have worked on **20+ frontend projects**, from native apps to complex dashboar
 ## 🛠️ Tech Stack  
 
 **Languages & Tools:**  
-HTML | CSS | JavaScript | TypeScript | SQL Server | .NET  
+HTML | CSS | JavaScript | SQL Server | .NET  
 
 **Frameworks & Libraries:**  
 React.js | Next.js | Redux | Bootstrap | Tailwind | MUI | EF Core  
@@ -36,7 +36,7 @@ Dashboard using MUI + Full Calendar for event management + Nivo for data visuali
 
 ## 🌟 Experience  
 
-- **Freelancer React.js Developer** – 2+ years (various projects with React & Next.js).  
+- **Freelancer React.js Developer** – 2+ years until now (various projects with React & Next.js).  
 - **Trainer – Software Testing** at Digital Orange Center (2023).  
 - **Volunteer IT Leader** at Life Maker Organization (2024).  
 - **Volunteer Data Entry** at Baranya Zakat Charity (2021).  
@@ -46,7 +46,7 @@ Dashboard using MUI + Full Calendar for event management + Nivo for data visuali
 ## 🎓 Education  
 
 🎓 Faculty of Electronic Engineering, Menoufia University  
-📌 Major: Computer Science – Graduation Year: 2025  
+📌 Major: Computer Science in Engineering College – Graduation Year: 2025  
 
 ---
 
